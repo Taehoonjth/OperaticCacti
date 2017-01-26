@@ -24,17 +24,17 @@ class Description extends React.Component {
  }
  
  
- class Book extends React.Component {
-   constructor(props) {
-     super(props)
-   }
-   render() {
-     return (
-       <div>
-       </div>
-     );
-   }
+class Book extends React.Component {
+ constructor(props) {
+   super(props)
  }
+ render() {
+   return (
+     <div>
+     </div>
+   );
+ }
+}
  
 
 window.BookPage = BookPage;
